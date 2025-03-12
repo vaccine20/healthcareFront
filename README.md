@@ -4,6 +4,10 @@
 ### 구성 : CRA(Create React App), React Router, Axios, Javascript
 ### 제작 기간 : 1.5 개월
 
-아래 URI 접속 시 시연 영상 확인이 가능합니다.
+아래 URL 접속 시 시연 영상 확인이 가능합니다.
 
 https://youtu.be/yfVygM5w5Nk
+
+아래 URL 접속 시 Backend 소스 확인이 가능합니다.
+
+https://github.com/vaccine20/healthcareBack
